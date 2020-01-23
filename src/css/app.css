@@ -36,13 +36,6 @@ li {
   font-size: $xlarge;
 }
 
-.eyecatch-logo {
-  background: url('../images/profile.jpg');
-  width: 120px;
-  height: 150px;
-  margin-top: 25px;
-}
-
 .contact {
   background: $info;
   color: #fff;
