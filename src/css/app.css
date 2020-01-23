@@ -46,7 +46,7 @@ li {
 .contact {
   background: $info;
   color: #fff;
-  padding: 10px;
+  padding: 20px;
   text-align: center;
 }
 
@@ -54,7 +54,7 @@ li {
 .contact-each-second {
   border-right: solid 1px #888;
   margin-left: 0;
-  width: 23% !important;
+  width: 32% !important;
 }
 
 .contact-each-third {
@@ -63,8 +63,8 @@ li {
   width: 32% !important;
 }
 .contact-each-last {
-  margin-left: 3%;
-  width: 16% !important;
+  margin-left: 1%;
+  width: 32% !important;
 }
 .contact-content {
   font-size: $large;
